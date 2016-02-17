@@ -14,8 +14,8 @@ import android.widget.Button;
 import android.widget.EditText;
 
 /**
- * by:ĞûÓêËÉ
- * email:xuanyusong@qq.com
+ * by:ÁõÅô
+ * email:1428463692@qq.com
  * @author Administrator
  *
  */
